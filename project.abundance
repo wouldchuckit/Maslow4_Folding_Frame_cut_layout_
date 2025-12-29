@@ -777,8 +777,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.27831715210355984,
-      "y": 0.2448036951501155,
+      "x": 0.2594390507011866,
+      "y": 0.41108545034642036,
       "uniqueID": "id-176145",
       "name": "Maslow4_Folding_Frame",
       "ioValues": [
@@ -107462,11 +107462,6 @@
     }
   ],
   "allConnectors": [
-    {
-      "ap2Name": "geometry",
-      "ap1ID": "id-171257",
-      "ap2ID": "id-171303"
-    },
     {
       "ap2Name": "geometry",
       "ap1ID": "id-176145",
