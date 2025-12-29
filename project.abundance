@@ -14,23 +14,23 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.41316073354908306,
-      "y": 0.20092378752886836,
+      "x": 0.43203883495145634,
+      "y": 0.3002309468822171,
       "uniqueID": "id-171257",
       "name": "Cut Layout",
       "ioValues": [
         {
           "name": "Sheet Width",
-          "ioValue": 2458,
-          "currentEquation": "2458"
+          "ioValue": 2438
         },
         {
           "name": "Sheet Height",
-          "ioValue": 1219
+          "ioValue": 1219,
+          "currentEquation": "1219"
         },
         {
           "name": "Part Padding",
-          "ioValue": 10
+          "ioValue": 0
         }
       ],
       "placements": []
