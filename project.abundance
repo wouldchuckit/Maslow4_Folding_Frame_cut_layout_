@@ -281,36 +281,6 @@
       "sortDirection": "Left"
     },
     {
-      "atomType": "Export",
-      "x": 0.4816612729234088,
-      "y": 0.4688221709006928,
-      "uniqueID": "id-235488",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "File Type",
-          "ioValue": "SVG",
-          "currentEquation": "SVG"
-        },
-        {
-          "name": "Resolution (dpi)",
-          "ioValue": 96
-        },
-        {
-          "name": "Part Name",
-          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
-          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
-        }
-      ],
-      "type": "SVG",
-      "resolution": 96,
-      "importIndex": 0,
-      "partName": "Maslow4_Folding_Frame_cut_layout_"
-    },
-    {
       "atomType": "GitHubMolecule",
       "x": 0.23031283710895362,
       "y": 0.6558891454965358,
@@ -145181,6 +145151,36 @@
       },
       "unitsKey": "MM",
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Export",
+      "x": 0.4719525350593312,
+      "y": 0.5150115473441108,
+      "uniqueID": "id-254090",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "SVG",
+          "currentEquation": "SVG"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
+          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
+        }
+      ],
+      "type": "SVG",
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Maslow4_Folding_Frame_cut_layout_"
     }
   ],
   "allConnectors": [
@@ -145192,12 +145192,12 @@
     {
       "ap2Name": "geometry",
       "ap1ID": "id-171257",
-      "ap2ID": "id-235488"
+      "ap2ID": "id-171303"
     },
     {
       "ap2Name": "geometry",
       "ap1ID": "id-171257",
-      "ap2ID": "id-171303"
+      "ap2ID": "id-254090"
     },
     {
       "ap2Name": "geometry",
