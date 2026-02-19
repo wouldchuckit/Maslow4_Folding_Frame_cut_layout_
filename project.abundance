@@ -31,8 +31,7 @@
         },
         {
           "name": "Sheet Width",
-          "ioValue": 2458,
-          "currentEquation": "2458"
+          "ioValue": 2458
         },
         {
           "name": "Sheet Height",
@@ -256,8 +255,7 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35,
-          "currentEquation": "6.35"
+          "ioValue": 6.35
         },
         {
           "name": "Passes",
@@ -279,6 +277,36 @@
       ],
       "partName": "Maslow4_Folding_Frame_cut_layout_",
       "sortDirection": "Left"
+    },
+    {
+      "atomType": "Export",
+      "x": 0.4719525350593312,
+      "y": 0.5150115473441108,
+      "uniqueID": "id-254090",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "SVG",
+          "currentEquation": "SVG"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
+          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
+        }
+      ],
+      "type": "SVG",
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Maslow4_Folding_Frame_cut_layout_"
     },
     {
       "atomType": "GitHubMolecule",
@@ -145151,36 +145179,6 @@
       },
       "unitsKey": "MM",
       "fileTypeVersion": 1
-    },
-    {
-      "atomType": "Export",
-      "x": 0.4719525350593312,
-      "y": 0.5150115473441108,
-      "uniqueID": "id-254090",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "File Type",
-          "ioValue": "SVG",
-          "currentEquation": "SVG"
-        },
-        {
-          "name": "Resolution (dpi)",
-          "ioValue": 96
-        },
-        {
-          "name": "Part Name",
-          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
-          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
-        }
-      ],
-      "type": "SVG",
-      "resolution": 96,
-      "importIndex": 0,
-      "partName": "Maslow4_Folding_Frame_cut_layout_"
     }
   ],
   "allConnectors": [
